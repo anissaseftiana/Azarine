@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'poppins', sans-serif;
+    color: #060606;
+}
+
+
+.navv 
+{background-color: aliceblue;
+    font-family: 'poppins', sans-serif;
+    color: #060606;
+}
+
+.navv .navbar-brand span 
+{color: #FE5D2D;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .navv .navbar-brand
+    {font-family: 'poppins', sans-serif;
+        color: #060606;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .rekomsatu {
+        background-color: #BCF2EB;
+    }
+
+
+    .produksatu {
+        background-color: #BCF2EB;
+    }
+
+
+    .produkdua {
+        background-color: #BCF2EB;
+    }
+    
+
+    .produktiga {
+        background-color: #BCF2EB;}
