@@ -1,4 +1,3 @@
-
 body {
     font-family: 'poppins', sans-serif;
     color: #060606;
@@ -41,3 +40,9 @@ body {
 
     .produktiga {
         background-color: #BCF2EB;}
+
+        .minilogo{
+            width: 20px;
+            height: 20px;
+            border-radius: 50;
+          }
